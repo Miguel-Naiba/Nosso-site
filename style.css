@@ -6,7 +6,6 @@
 article {
     width: 75%;
     height: 1000px;
-    background-color: darkblu;
     position: relative;
     border: 0px;
     border-color: black;
@@ -20,6 +19,7 @@ article {
     position: absolute;
     margin-left: 20px;
     position: relative;
+    background-color: darkgray;
 }
 #segundo{
     height: 450px;
@@ -30,6 +30,7 @@ article {
     margin-top: 40px;
     border: 6px;
     border-style: solid;
+    background-color: darkgrey;
 }
 #terceiro{
     height: 450px;
@@ -39,4 +40,41 @@ article {
     position: relative;
     border: 6px;
     border-style: solid;
+    background-color: darkgrey;
+}
+h4{
+    text-align: center;
+    background-color: grey;
+    height: 45px;
+}
+h5{
+    text-align: center;
+    background-color: grey;
+    height: 45px;
+}
+h6{
+    text-align: center;
+    background-color: grey;
+    height: 45px;
+}
+#real{
+    margin-top: 50px;
+    margin-left: 40px;
+    float: left;
+}
+#texto{
+    font-family: cursive;
+    margin-top: 130px;
+    width: 850px;
+    margin-left: 50px;
+}
+#regras{
+    width: 400px;
+    margin-left: 25px;
+    margin-top: 100px;
+}
+#textão{
+    width: 350px;
+    margin-left: 25px;
+    margin-top: 100px;
 }
