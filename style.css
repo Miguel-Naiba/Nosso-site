@@ -1,0 +1,8 @@
+aside{
+    width: 25%;
+    height: 1000px;
+    border: 6px;
+    border-style: solid;
+    float: right;
+    background-color: darkgray;
+}
