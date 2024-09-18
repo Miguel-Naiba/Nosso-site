@@ -138,6 +138,13 @@ h6{
     width: 850px;
     margin-left: 50px;
 }
+.textoss{
+    margin-top: 10px;
+    font-family: cursive;
+    width: 250px;
+    text-align: center;
+    margin-left: 20px;
+}
 #texto{
     font-family: cursive;
     margin-top: 60px;
@@ -164,9 +171,20 @@ aside{
 }
 #pista{
     width: 100%;
-    height: 300px;
+    height: 230px;
+    margin-top: 10px;
 }
 .saltar{
     width: 100%;
     height: 200px;
+    margin-top: 30px;
+}
+.rouldi{
+    text-align: center;
+}
+.futebol{
+    float: right;
+}
+.coração{
+    margin-left: 37.5%;
 }
